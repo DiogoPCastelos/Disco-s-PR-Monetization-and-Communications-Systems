@@ -23,4 +23,4 @@ Fork the project, make a new pull request and I will analyse it and perhaps merg
 
 ## License
 
-My RP © 2024 by Diogo Piteira Castelos is licensed under  Attribution-NonCommercial-NoDerivatives 4.0 International (https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1) (CC BY-NC-ND 4.0)
+My RP © 2024 by Diogo Piteira Castelos is licensed under  [Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1) (CC BY-NC-ND 4.0)
