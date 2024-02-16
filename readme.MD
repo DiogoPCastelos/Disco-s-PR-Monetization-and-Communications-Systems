@@ -1,6 +1,6 @@
 # My PR
 
-Hi, this is a Communication system between the Discos and their PR people. The idea is to make kind of groups who get paid for selling entrances through the website.
+Hi, this is a Communication system between the Discos and their PR people. The idea is to make kind of groups who get paid for selling entrances through the website. (It is also just a side project because I was bored and annoyed that the existing platforms are so bad. Also, also, also, this is my first full stack solo project. Long story short, follow along if you want to see the mess this is bound to be, over the span of a year or so 😂)
 
 ## Table of Contents
 
