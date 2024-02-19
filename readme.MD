@@ -4,7 +4,7 @@ Hi, this is a Communication system between the Discos and their PR people. The i
 
 ## Live Website
 
-[x] https://diogopcastelos.github.io/Disco-s-PR-Monetization-and-Communications-Systems/
+➡️ https://diogopcastelos.github.io/Disco-s-PR-Monetization-and-Communications-Systems/
 
 ## Table of Contents
 
